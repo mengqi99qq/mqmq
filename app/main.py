@@ -1,4 +1,4 @@
-"""FastAPI application entrypoint for learning backend."""
+"""FastAPI application entrypoint for learning backend.""""""FastAPI application entrypoint for learning backend.""""""FastAPI application entrypoint for learning backend."""
 
 from contextlib import asynccontextmanager
 
